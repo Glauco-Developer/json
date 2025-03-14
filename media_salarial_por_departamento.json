@@ -1,0 +1,10 @@
+[
+    {
+        "Departamento":"Financeiro",
+        "Quantidade dependentes":5000.0
+    },
+    {
+        "Departamento":"TI",
+        "Quantidade dependentes":4000.0
+    }
+]
